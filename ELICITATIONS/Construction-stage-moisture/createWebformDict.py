@@ -1,7 +1,7 @@
 Repository = 'Construction-stage-moisture'
 
 # this can be 'seed' or 'target'
-quest_type = 'seed'
+quest_type = 'target'
 
 #set group names?? eg contractor, consultant, academic etc
 group_list = ['Group A', 'Group B', 'Group C']
