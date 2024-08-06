@@ -1,8 +1,9 @@
-Repository = 'testWebform'
+Repository = 'Construction-stage-moisture'
 
 # this can be 'seed' or 'target'
 quest_type = 'seed'
 
+#set group names?? eg contractor, consultant, academic etc
 group_list = ['Group A', 'Group B', 'Group C']
 
 # target_list = [2,3]
@@ -10,10 +11,10 @@ group_list = ['Group A', 'Group B', 'Group C']
 absolute_indexing = True
 
 # select 'github' or 'local'
-datarepo = 'local'
+datarepo = 'github'
 
 # datarepo = 'github'
-# RepositoryData = 'createWebformAnswers'
+RepositoryData = 'Elicipy-Test-RepositoryData'
 
 # encrypted = False
 

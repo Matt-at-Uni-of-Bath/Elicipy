@@ -1,0 +1,68 @@
+IDX,LABEL,SHORT Q,LONG Q_ENG,LONG Q_FRA,LONG Q_ITA,UNITS,SCALE,MINVAL,MAXVAL,REALIZATION,QUEST_TYPE,IDXMIN,IDXMAX,SUM50,PARENT,IMAGE
+1,1,Moisture content of manufactured CLT,What % Moisture Content (MC) would you expect Cross Laminated Timber to be at when leaving the manufacturer,,,%,uni,0,100,12,seed,0,0,0,-1,
+2,2,General accepted safe moisture content,What % Moisture Content (MC) would you expect to be the safe upper limit for a mass timber structural component to avoid fungal decay (as defined in a construction stage moisture control plan),,,%,uni,0,100,20,seed,0,0,0,-1,
+3,3,Wetting in a CLT slab from standing water on top,"Approximately what %MC would you expect at 40mm depth in a CLT slab that had started at 11%MC but had had 10mm of standing water on it for one week 
+(For general context, assume a temperate climate in winter & the top lamination is 40mm thick so penetration is not including passing through a glue line)",,,%,uni,0,100,25,seed,0,0,0,-1,next_rhyo&and.png
+4,4,Wetting in the base of a CLT wall standing in water,"Approximately what %MC would you expect near the centre of a CLT wall panel 30mm up from its base that had started at 12%MC after it had had its bottom edge placed in 2mm of standing water for one week
+(For general context, assume a temperate climate in winter and a 100mm thick CLT wall panel)",,,%,uni,0,100,30,seed,0,0,0,-1,
+5,5,Expected rainfall days in winter,"If you were constructing a timber structure and it was going to be exposed for the whole of November-December-January in a northern-hemisphere temperate maritime climate (eg London, UK). How many days would you expect for the timber to be exposed to rainfall? (more than 1mm)",,,days,uni,0,100,31,seed,0,0,0,-1,
+6,6,Expected rainfall days in summer,"If you were constructing a timber structure and it was going to be exposed for the whole of June-July-August in London, UK. How many days would you expect for the timber to be exposed to rainfall? (more than 1mm)",,,days,uni,0,100,23,seed,0,0,0,-1,
+1,1,Season Timing,"If the only thing you did to try and prevent the timber roof slab suffering onset of fungal decay was; 
+Timing the start of construction for the most favourable time of the year in terms of rainfall.
+How effective do you think it would be?",,,%,uni,0,100,,target,0,0,0,-1,
+2,2,Weather Forecasting,"If the only thing you did to try and prevent the timber roof slab suffering onset of fungal decay was; 
+Monitoring the 5-day weather forecast and timing installation of the roof elements for a predicted dry period.
+How effective do you think it woud be?",,,%,uni,0,100,,target,0,0,0,-1,
+3,3,Just In Time Delivery,"If the only thing you did to try and prevent the timber roof slab suffering onset of fungal decay was; 
+Adopting just-in-time delivery so that timber is not stored on site for more than 48 hours before installation.
+How effective do you think it would be?",,,%,uni,0,100,,target,0,0,0,-1,
+4,4,Speed of Construction,"If the only thing you did to try and prevent the timber roof slab suffering onset of fungal decay was; 
+Ensuring that design of elements, connections and envelope detailing maximises the speed of construction and enclosure of the timber frame.
+How effective do you think it would be?",,,%,uni,0,100,,target,0,0,0,-1,
+5,5,Temporary Enclosure,"If the only thing you did to try and prevent the timber roof slab suffering onset of fungal decay was; 
+Erection of a temporary weathertight roof plane over the timber structure as soon as it is complete and staying in place until permanent roof membranes are in place.
+How effective do you think it would be?",,,%,uni,0,100,,target,0,0,0,-1,
+6,6,Self Adhesive Membrane,"If the only thing you did to try and prevent the timber roof slab suffering onset of fungal decay was; 
+Application of self-adhesive breathable membranes to the CLT panels in the factory, joints taped on site using matching product and both stay in place until the permanent roof membranes are installed. (eg Siga Wetguard/ Isocell Protect SK/ Rothoblaas Defence etc)
+How effective do you think it would be?",,,%,uni,0,100,,target,0,0,0,-1,
+7,7,Hydrophobic Coating,"If the only thing you did to try and prevent the timber roof slab suffering onset of fungal decay was; 
+Application of a temporary sprayed/painted water repellent coating to the surfaces of CLT panels in the factory (Remmers Induline SW-910 / Arxada LotusPro)
+How effctive do you think it would be?",,,%,uni,0,100,,target,0,0,0,-1,
+8,8,1:40 Falls,"If the only thing you did to try and prevent the timber roof slab suffering onset of fungal decay was; 
+Ensure that all CLT structural slabs are inclined on a minimum 1:40 fall.
+How effective do you think it would be?",,,%,uni,0,100,,target,0,0,0,-1,
+9,9,No Valleys or Inverts,"If the only thing you did to try and prevent the timber roof slab suffering onset of fungal decay was; 
+Ensure that there are no valleys or inverts in the CLT slabs which cause a net longitudinal fall of less than 1:40.
+How effective do you think it would be?",,,%,uni,0,100,,target,0,0,0,-1,
+10,10,No Upstands or Parapets,"If the only thing you did to try and prevent the timber roof slab suffering onset of fungal decay was; 
+Ensure that there are no upstands or parapets which interrupt a direct gravity-driven path for water off the roof.
+How effective do you think it would be?",,,%,uni,0,100,,target,0,0,0,-1,
+11,11,No Internal Downpipes,"If the only thing you did to try and prevent the timber roof slab suffering onset of fungal decay was; 
+Ensure that there are no surface-water downpipes present internal to the footprint of the roof. Ie all downpipes are fed from the building perimeter.
+How effective do you think it would be?",,,%,uni,0,100,,target,0,0,0,-1,
+12,12,Piped Temporary Drainage,"If the only thing you did to try and prevent the timber roof slab suffering onset of fungal decay was; 
+Provision of temporary water-disposal routes within closed, piped drainage runs.
+How effective do you think it would be?",,,%,uni,0,100,,target,0,0,0,-1,
+13,13,Active Removal,"If the only thing you did to try and prevent the timber roof slab suffering onset of fungal decay was; 
+Site attendance is provided for removal of standing water on CLT surfaces within one hour of rainfall ceasing, inside working hours, approx 08:00-17:00 Monday to Friday.
+How effective do you think it would be?",,,%,uni,0,100,,target,0,0,0,-1,
+14,14,Passive Drying Void,"If the only thing you did to try and prevent the timber roof slab suffering onset of fungal decay was; 
+Adoption of a sheathed non-structural deck, supported on battens off the structural CLT in order to form an air cavity ventilated to the space inside the building.
+How effective do you think it would be?",,,%,uni,0,100,,target,0,0,0,-1,
+15,15,Passive Drying Period,"If the only thing you did to try and prevent the timber roof slab suffering onset of fungal decay was; 
+Planning of the construction programme such that a period is available for the soffit of the CLT roof deck to remain un-encapsulated to allow pasisve drying.
+How effective do you think it would be?",,,%,uni,0,100,,target,0,0,0,-1,
+16,16,Moisture Readings,"If you employed the following method to alert you to there being any areas of CLT at high moisture content anywhere in the roof;
+A strict protocol being in place to take, record and communicate moisture content measurements at pre-defined locations in the CLT slab using hand held moisture meters. Locations are chosen to be representative of general and high-risk areas for wetting.
+How effective do you think it would be?",,,%,uni,0,100,,target,0,0,0,-1,
+17,17,Embedded Moisture Detection,"If you employed the following method to alert you to there being any areas of CLT at high moisture content anywhere in the roof
+Embedded electronic moisture monitoring devices in place to measure, record and communicate moisture readings in the CLT. Locations are chosen to be representative of general and high-risk areas for wetting. (eg Wiiste/ WoodSense etc)
+How effective do you think it would be?",,,%,uni,0,100,,target,0,0,0,-1,
+18,18,Leak Detection,"If you employed the following method to alert you to there being any areas of CLT at high moisture content anywhere in the roof;
+Embedded leak detection sensors in place below the primary waterproofing membrane and above the CLT though not embedded in it. (eg AquaTrace, ProGeo etc)
+How effective do you think it would be?",,,%,uni,0,100,,target,0,0,0,-1,
+19,19,Active Drying,"If the only thing you did to try and prevent the timber roof slab suffering onset of fungal decay was; 
+Active drying of the CLT through provision of relevant temporary enclosure and active drying through application of controlled humidity and temperature airflow.
+How effective do you think it would be?",,,%,uni,0,100,,target,0,0,0,-1,
+20,20,Optimum Set of Mitigations,"In your opinion, what is the optimum set of mitigations that a project can employ. In consideration of balancing effectiveness with, constraint on the architectural form and the cost and efficiency of construction execution.
+How effective do think it would be?",,,%,uni,0,100,,target,0,0,0,-1,
